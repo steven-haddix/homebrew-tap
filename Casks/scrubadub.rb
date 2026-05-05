@@ -1,6 +1,6 @@
 cask "scrubadub" do
-  version "0.1.0"
-  sha256 "fa29d81ed0cd0b4879c626442be141849ccfbede4ae4c2d9dfef1afee37e67b9"
+  version "0.1.1"
+  sha256 "9f091a6b231d863b08f9193fa555f05fbe1bfe4757955fa8512d7f00bb189114"
 
   url "https://github.com/steven-haddix/scrub-a-dub/releases/download/v#{version}/Scrubadub-#{version}.zip"
   name "Scrubadub"
